@@ -155,4 +155,4 @@ cutil.extend(Oracle.prototype, {
 
 export {Oracle, Feed};
 
-// https://docs.chain.link/docs/polygon-addresses/
+// https://docs.chain.link/docs/matic-addresses/
