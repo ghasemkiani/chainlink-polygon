@@ -1,0 +1,34 @@
+{
+  "name": "@ghasemkiani/chainlink-polygon",
+  "version": "1.0.0",
+  "description": "Chainlink oracle price feeds on Polygon",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ghasemkiani/chainlink-polygon.git"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "oracle",
+    "price",
+    "feed",
+    "polygon",
+    "matic"
+  ],
+  "author": "Ghasem Kiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ghasemkiani/chainlink-polygon/issues"
+  },
+  "homepage": "https://gitlab.com/ghasemkiani/chainlink-polygon#readme",
+  "dependencies": {
+    "@ghasemkiani/base": "github:ghasemkiani/base",
+    "@ghasemkiani/polygon": "github:ghasemkiani/polygon",
+    "@ghasemkiani/chainlink-eth": "github:ghasemkiani/chainlink-eth"
+  }
+}
